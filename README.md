@@ -1,5 +1,7 @@
 # OpenGL Triangle
+
 С++ draw one figure : triangle OpenGL
 
-![Alt Text](https://github.com/Danykrane/KaspSolve/blob/main/img/ezgif.com-gif-maker.gif)
-### 
+![Alt Text](https://raw.githubusercontent.com/Danykrane/OpenGL_Triangle/master/data/1.png)
+
+###
